@@ -1,7 +1,7 @@
 module Test
   module Gem
     module Release
-      VERSION = '1.0.0'
+      VERSION = '1.2.3'
     end
   end
 end
